@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Oliver Franz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.licdn.com/dms/image/D4D12AQEa2mkv6LDDYw/article-cover_image-shrink_600_2000/0/1689474209403?e=2147483647&v=beta&t=Nhi3t1tSFCKf4pGmCquTu_RLhT1IQoLHH8ECqhWdPtY" />
+<img align="right" width=250px alt="Unicorn" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -26,7 +26,7 @@ Outside of technology,🌱 I like 🎮 playing video games, 🎵 listening to mu
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,py,express,nestjs,nextjs,react,tailwind,mongodb,mysql,postgres,figma,github,jenkins,vscode,=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ts,php,symfony,py,express,nestjs,nextjs,react,tailwind,mongodb,mysql,postgres,figma,github,jenkins,cpp,=14" />
   </a>
 </p>
 
@@ -39,9 +39,44 @@ Outside of technology,🌱 I like 🎮 playing video games, 🎵 listening to mu
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,figma,github,vscode,=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,figma,github,vscode,visualstudio,notion,npm,ps,pnpm,replit,windows,ubuntu,=14" />
   </a>
 </p>
 
 
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+    </tr>
+</table>
+<br>
