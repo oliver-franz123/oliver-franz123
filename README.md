@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Systems Analysis student, currently in the middle of my degree. I am expanding my knowledge in front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+
 
 🌱 I am currently learning ....
 - React.js
@@ -14,7 +14,7 @@ I am a Systems Analysis student, currently in the middle of my degree. I am expa
 👯 I'm looking forward to collaborate on open source projects.
 ✔ Ask me about anything, I'm happy to help.
 Outside of technology,🌱 I like 🎮 playing video games, 🎵 listening to music,🌴 exploring nature outdoors and 📖 learning about topics in the development area.
-📫 Contact me at: <a href="oliverfranz2002@gmail.com">oliverfranz2002@gmail.com</a>
+
 
 
 <!--h1 without bottom border-->
